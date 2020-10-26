@@ -1,7 +1,7 @@
 #!/bin/bash
 
 :'
-ecebe três números inteiros pela entrada padrão (e não via argumentos em linha de comando) e mostre qual o maior deles. 
+Recebe três números inteiros pela entrada padrão (e não via argumentos em linha de comando) e mostre qual o maior deles. 
 '
 
 echo "Primeiro número: "
