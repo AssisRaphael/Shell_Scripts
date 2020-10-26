@@ -1,7 +1,10 @@
 #!/bin/bash
 
 :'
-recebe um arquivo como argumento em linha de comando e verifica se existe ou não. Caso exista, verifique se é um arquivo, um diretório ou desconhecido mostrando quais as permissões que o usuário atual (não do dono do arquivo) possui sobre ele. Caso não exista, imprima que é inválido. 
+recebe um arquivo como argumento em linha de comando e verifica se existe ou não. 
+Caso exista, verifique se é um arquivo, um diretório ou desconhecido mostrando quais 
+as permissões que o usuário atual (não do dono do arquivo) possui sobre ele. Caso não 
+exista, imprima que é inválido. 
 '
 
 arquivo=$1;
